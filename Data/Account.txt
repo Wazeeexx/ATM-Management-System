@@ -1,0 +1,4 @@
+0	143	Dave Prades	Nabua	1902651	12345	Savings	10000.0
+0	143	Dave Prades	Nabua	1902651	12345	Savings	10000.0
+0	456	Bany	nabua	12345	987	savings	50000.0
+111	121	Dave Prades	Nabua	12345	30501	Savings	5000.0
